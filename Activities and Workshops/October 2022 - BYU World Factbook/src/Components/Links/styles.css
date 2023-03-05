@@ -1,0 +1,15 @@
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-flow: row wrap;
+    align-items: left;
+    justify-content: left;
+}
+
+.buttons {
+    background-color: #F5F5F5 !important;
+}
+
+.buttons:hover {
+    background-color: #0d6efd !important;
+}
